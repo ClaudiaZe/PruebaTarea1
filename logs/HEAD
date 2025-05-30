@@ -1,0 +1,41 @@
+0000000000000000000000000000000000000000 4b86136ada451909100c83b02131986fdaa3bbff Claudia Zelada Cazon <czelada029@gmail.com> 1748221219 -0400	commit (initial): add index.html
+4b86136ada451909100c83b02131986fdaa3bbff 4b86136ada451909100c83b02131986fdaa3bbff Claudia Zelada Cazon <czelada029@gmail.com> 1748221414 -0400	checkout: moving from main to develop
+4b86136ada451909100c83b02131986fdaa3bbff 4b86136ada451909100c83b02131986fdaa3bbff Claudia Zelada Cazon <czelada029@gmail.com> 1748221512 -0400	checkout: moving from develop to develop
+4b86136ada451909100c83b02131986fdaa3bbff 4b86136ada451909100c83b02131986fdaa3bbff Claudia Zelada Cazon <czelada029@gmail.com> 1748221854 -0400	checkout: moving from develop to main
+4b86136ada451909100c83b02131986fdaa3bbff 4b86136ada451909100c83b02131986fdaa3bbff Claudia Zelada Cazon <czelada029@gmail.com> 1748222697 -0400	checkout: moving from main to develop
+4b86136ada451909100c83b02131986fdaa3bbff 827d5acee26e0fa4f13f6f3cb8cdf461ab1f4b1e Claudia Zelada Cazon <czelada029@gmail.com> 1748222986 -0400	commit: modificado por develop en head
+827d5acee26e0fa4f13f6f3cb8cdf461ab1f4b1e 4b86136ada451909100c83b02131986fdaa3bbff Claudia Zelada Cazon <czelada029@gmail.com> 1748223041 -0400	checkout: moving from develop to main
+4b86136ada451909100c83b02131986fdaa3bbff 092e9fced583c9b278625bf07d768ff2e0084413 Claudia Zelada Cazon <czelada029@gmail.com> 1748223137 -0400	commit: add eventos.html modificado h2
+092e9fced583c9b278625bf07d768ff2e0084413 827d5acee26e0fa4f13f6f3cb8cdf461ab1f4b1e Claudia Zelada Cazon <czelada029@gmail.com> 1748223151 -0400	checkout: moving from main to develop
+827d5acee26e0fa4f13f6f3cb8cdf461ab1f4b1e 3d7ef4765262d07e04f2343e0db05d09e36fc8bd Claudia Zelada Cazon <czelada029@gmail.com> 1748223244 -0400	commit: add eventos.html por develop
+3d7ef4765262d07e04f2343e0db05d09e36fc8bd 092e9fced583c9b278625bf07d768ff2e0084413 Claudia Zelada Cazon <czelada029@gmail.com> 1748223299 -0400	checkout: moving from develop to main
+092e9fced583c9b278625bf07d768ff2e0084413 092e9fced583c9b278625bf07d768ff2e0084413 Claudia Zelada Cazon <czelada029@gmail.com> 1748223416 -0400	checkout: moving from main to feature
+092e9fced583c9b278625bf07d768ff2e0084413 aa64ecc36abdafbdd9bc29f957a55acba7edc339 Claudia Zelada Cazon <czelada029@gmail.com> 1748223589 -0400	commit: add contacto.html mod por feature
+aa64ecc36abdafbdd9bc29f957a55acba7edc339 06c2e0332a70f9b0317a0f07fbc613db75ede68b Claudia Zelada Cazon <czelada029@gmail.com> 1748223818 -0400	commit: add perfil.html mod por feature
+06c2e0332a70f9b0317a0f07fbc613db75ede68b 4d9cd3f16ca8d615696b181264c7179f3dac1102 Claudia Zelada Cazon <czelada029@gmail.com> 1748223923 -0400	commit: add conferencias.html mod por feature
+4d9cd3f16ca8d615696b181264c7179f3dac1102 3d7ef4765262d07e04f2343e0db05d09e36fc8bd Claudia Zelada Cazon <czelada029@gmail.com> 1748223955 -0400	checkout: moving from feature to develop
+3d7ef4765262d07e04f2343e0db05d09e36fc8bd efd84ad32473a07949b75ba36b0b6828b84a2b48 Claudia Zelada Cazon <czelada029@gmail.com> 1748224002 -0400	commit: add clientes.html mod por develop
+efd84ad32473a07949b75ba36b0b6828b84a2b48 092e9fced583c9b278625bf07d768ff2e0084413 Claudia Zelada Cazon <czelada029@gmail.com> 1748224061 -0400	checkout: moving from develop to main
+092e9fced583c9b278625bf07d768ff2e0084413 1ae49c775f290f19400b403dfc0daf9a06c7313f Claudia Zelada Cazon <czelada029@gmail.com> 1748225337 -0400	commit: update admin por main
+1ae49c775f290f19400b403dfc0daf9a06c7313f 4d9cd3f16ca8d615696b181264c7179f3dac1102 Claudia Zelada Cazon <czelada029@gmail.com> 1748225345 -0400	checkout: moving from main to feature
+4d9cd3f16ca8d615696b181264c7179f3dac1102 4dfe5dca859679a3c6bd7ae14a4af7eb3878b0f2 Claudia Zelada Cazon <czelada029@gmail.com> 1748225431 -0400	commit: update de admin por feature
+4dfe5dca859679a3c6bd7ae14a4af7eb3878b0f2 efd84ad32473a07949b75ba36b0b6828b84a2b48 Claudia Zelada Cazon <czelada029@gmail.com> 1748225446 -0400	checkout: moving from feature to develop
+efd84ad32473a07949b75ba36b0b6828b84a2b48 3ac227462b8a4b1df243a88e38854e38efbce24f Claudia Zelada Cazon <czelada029@gmail.com> 1748225505 -0400	commit: update en eventos por develop
+3ac227462b8a4b1df243a88e38854e38efbce24f 1ae49c775f290f19400b403dfc0daf9a06c7313f Claudia Zelada Cazon <czelada029@gmail.com> 1748225808 -0400	checkout: moving from develop to main
+1ae49c775f290f19400b403dfc0daf9a06c7313f 579eacee06628e25f69f050d318bf688d69421ff Claudia Zelada Cazon <czelada029@gmail.com> 1748226715 -0400	commit (merge): Merge branch 'develop'
+579eacee06628e25f69f050d318bf688d69421ff 3ac227462b8a4b1df243a88e38854e38efbce24f Claudia Zelada Cazon <czelada029@gmail.com> 1748226782 -0400	checkout: moving from main to develop
+3ac227462b8a4b1df243a88e38854e38efbce24f 579eacee06628e25f69f050d318bf688d69421ff Claudia Zelada Cazon <czelada029@gmail.com> 1748226822 -0400	checkout: moving from develop to main
+579eacee06628e25f69f050d318bf688d69421ff 9c605d45195f416db307f5e243052ec1053e5107 Claudia Zelada Cazon <czelada029@gmail.com> 1748227100 -0400	commit (merge): Merge branch 'feature'
+9c605d45195f416db307f5e243052ec1053e5107 f662ac4bb42dcbfb72265eb01e1b968c5090cef1 Claudia Zelada Cazon <czelada029@gmail.com> 1748227136 -0400	commit: update en perfil
+f662ac4bb42dcbfb72265eb01e1b968c5090cef1 4dfe5dca859679a3c6bd7ae14a4af7eb3878b0f2 Claudia Zelada Cazon <czelada029@gmail.com> 1748227504 -0400	checkout: moving from main to feature
+4dfe5dca859679a3c6bd7ae14a4af7eb3878b0f2 f662ac4bb42dcbfb72265eb01e1b968c5090cef1 Claudia Zelada Cazon <czelada029@gmail.com> 1748228065 -0400	checkout: moving from feature to main
+f662ac4bb42dcbfb72265eb01e1b968c5090cef1 f662ac4bb42dcbfb72265eb01e1b968c5090cef1 Claudia Zelada Cazon <czelada029@gmail.com> 1748228581 -0400	checkout: moving from main to programador-3
+f662ac4bb42dcbfb72265eb01e1b968c5090cef1 c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf Claudia Zelada Cazon <czelada029@gmail.com> 1748228667 -0400	commit: update en contacto por programador 3
+c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf f662ac4bb42dcbfb72265eb01e1b968c5090cef1 Claudia Zelada Cazon <czelada029@gmail.com> 1748228678 -0400	checkout: moving from programador-3 to main
+f662ac4bb42dcbfb72265eb01e1b968c5090cef1 c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf Claudia Zelada Cazon <czelada029@gmail.com> 1748228695 -0400	merge programador-3: Fast-forward
+c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf Claudia Zelada Cazon <czelada029@gmail.com> 1748228739 -0400	checkout: moving from main to programador-3
+c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf Claudia Zelada Cazon <czelada029@gmail.com> 1748228779 -0400	checkout: moving from programador-3 to main
+c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf 0000000000000000000000000000000000000000 Claudia Zelada Cazon <czelada029@gmail.com> 1748632214 -0400	Branch: renamed refs/heads/main to refs/heads/main
+c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf Claudia Zelada Cazon <czelada029@gmail.com> 1748632214 -0400	Branch: renamed refs/heads/main to refs/heads/main
+c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf 0000000000000000000000000000000000000000 Your Name <you@example.com> 1748637953 -0400	Branch: renamed refs/heads/main to refs/heads/main
+c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf c98e66acd09bc7a2c9b66d0a21cd162fbf7555cf Your Name <you@example.com> 1748637953 -0400	Branch: renamed refs/heads/main to refs/heads/main
